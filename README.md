@@ -1,0 +1,1 @@
+# nvim setup and plugging
